@@ -1,4 +1,4 @@
---FrameXHUB-V1
+
 
 local level = game:GetService("Players").LocalPlayer.Data.Level.Value
 local char = game:GetService("Players").LocalPlayer.Character
